@@ -70,4 +70,7 @@ Rails.application.configure do
 
   # indicate which service to use for attachments
   config.active_storage.service = :local
+
+
+
 end
